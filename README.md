@@ -37,13 +37,13 @@ PyPassword-Generator/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/PyPassword-Generator.git
+   git clone https://github.com/Jeropaul360/Password-Generator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd PyPassword-Generator
+   cd Password-Generator
    ```
 
 3. Run the Python program:
