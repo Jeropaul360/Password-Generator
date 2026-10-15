@@ -102,6 +102,19 @@ The objective of this project is to practice Python programming fundamentals, in
 * Create a graphical user interface (GUI).
 * Allow users to save generated passwords securely.
 
+## 🎥 Live Demo
+
+Watch the PyPassword Generator in action!
+
+<img width="548" height="296" alt="Image" src="https://github.com/user-attachments/assets/d34464ca-84d7-4010-b606-debe0a456e1e" />
+
+### ✨ Demo Features
+
+* Generate random passwords using letters, numbers, and symbols.
+* Customize password composition.
+* View the generated password.
+* Check the basic password-strength message.
+
 ## 👨‍💻 Author
 
 **Paul Jero**
