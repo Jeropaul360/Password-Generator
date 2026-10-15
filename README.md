@@ -1,4 +1,4 @@
-# 🔐 PyPassword Generator
+# 🔐 Password Generator
 
 A simple Python-based password generator that creates random passwords using uppercase letters, lowercase letters, numbers, and symbols. Customize your password by specifying how many letters, numbers, and symbols you want.
 
@@ -20,7 +20,7 @@ A simple Python-based password generator that creates random passwords using upp
 ## 📂 Project Structure
 
 ```text
-PyPassword-Generator/
+Password-Generator/
 │
 ├── main.py
 └── README.md
@@ -64,7 +64,7 @@ PyPassword-Generator/
 ### Example Output
 
 ```text
-Welcome to the PyPassword Generator!
+Welcome to the Password Generator!
 How many letters would you like in your password?
 8
 How many symbols would you like?
@@ -104,7 +104,7 @@ The objective of this project is to practice Python programming fundamentals, in
 
 ## 🎥 Live Demo
 
-Watch the PyPassword Generator in action!
+Watch the Password Generator in action!
 
 <img width="548" height="296" alt="Image" src="https://github.com/user-attachments/assets/d34464ca-84d7-4010-b606-debe0a456e1e" />
 
